@@ -32,6 +32,32 @@ Portafolio visual para exhibir trabajos o productos.
 - **Lo que aprendí:** Maquetación avanzada y optimización de imágenes para la web.
 - [🔗 Ver Repositorio](https://github.com/zumaranfrancisco-ux/Proyecto-showcase)
 
-- markdown
+- 🚀 Sección: Featured Case Study: SmartBudget
+El Desafío de la Gestión Financiera Inteligente
+Descripción del Proyecto:
+Desarrollo de una aplicación web para el control de finanzas personales que permite a los usuarios categorizar gastos, establecer presupuestos mensuales y visualizar su salud financiera en tiempo real.
+El Desafío Principal:
+El mayor reto fue la sincronización y persistencia de datos en tiempo real. Necesitaba asegurar que, al ingresar un gasto, los cálculos de presupuesto restante y las alertas de exceso se actualizaran instantáneamente sin recargar la página, manteniendo la integridad de la información si el usuario cerraba el navegador.
+Solución Propuesta:
+Implementé una arquitectura basada en componentes reactivos y un sistema de almacenamiento local eficiente (LocalStorage/API externa). Diseñé un algoritmo de validación que intercepta los ingresos antes de procesarlos, asegurando que solo datos limpios alimenten los gráficos de visualización.
+Herramientas Técnicas:
+Frontend: React.js / JavaScript ES6+
+Estilos: CSS3 / Tailwind CSS (para diseño responsivo)
+Gestión de Estado: Context API / Redux
+Control de Versiones: Git & GitHub
+Principales Aprendizajes:
+Aprendí a gestionar flujos de datos complejos y a priorizar la Experiencia de Usuario (UX), entendiendo que en aplicaciones financieras, la claridad y la velocidad de respuesta son críticas para generar confianza.
+Métricas de Impacto:
+Eficiencia: Reducción del 40% en el tiempo de carga de reportes mediante la optimización de funciones de filtrado.
+Funcionalidad: Implementación de un sistema de alertas que notifica al usuario cuando alcanza el 80% de su presupuesto establecido.
+Calidad: 100% de persistencia de datos garantizada mediante pruebas de estrés en el navegador.
+Habilidades Técnicas Aplicadas:
+Manipulación avanzada del DOM.
+Consumo de APIs REST.
+Diseño de interfaces Mobile-First.
+Lógica de programación funcional.
+¿Por qué este proyecto?:
+Elegí SmartBudget porque representa mi capacidad para transformar una necesidad cotidiana en una solución técnica robusta. Demuestra no solo mi dominio del código, sino también mi pensamiento analítico para resolver problemas de lógica matemática y usabilidad.
+
 ## 📫 ¡Hablemos!
 - **Email:** [zumaran.francisco@gmail.com]
