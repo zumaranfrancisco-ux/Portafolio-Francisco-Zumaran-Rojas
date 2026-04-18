@@ -45,7 +45,7 @@ Implementé una arquitectura basada en componentes reactivos y un sistema de alm
 
 Herramientas Técnicas:
 Frontend: React.js / JavaScript ES6+
-Estilos: CSS3 / Tailwind CSS (para diseño responsivo)
+Estilos: CSS3 /  CSS (para diseño responsivo)
 Gestión de Estado: Context API / Redux
 Control de Versiones: Git & GitHub
 Principales Aprendizajes:
