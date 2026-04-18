@@ -32,7 +32,7 @@ Portafolio visual para exhibir trabajos o productos.
 - **Lo que aprendí:** Maquetación avanzada y optimización de imágenes para la web.
 - [🔗 Ver Repositorio](https://github.com/zumaranfrancisco-ux/Proyecto-showcase)
 
-- 🚀 Sección: Featured Case Study: SmartBudget
+### 🚀 Sección: Featured Case Study: SmartBudget
 El Desafío de la Gestión Financiera Inteligente
 Descripción del Proyecto:
 Desarrollo de una aplicación web para el control de finanzas personales que permite a los usuarios categorizar gastos, establecer presupuestos mensuales y visualizar su salud financiera en tiempo real.
